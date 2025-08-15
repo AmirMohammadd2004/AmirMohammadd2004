@@ -1,5 +1,5 @@
 <h1 align="center">👋 سلام، من امیرمحمد هستم | Hello, I'm AmirMohammad</h1>
-<h3 align="center">Android Developer | Kotlin & Jetpack Compose Enthusiast</h3>
+<h3 align="center">Android Developer | Kotlin & Jetpack Compose </h3>
 
 ---
 
