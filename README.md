@@ -36,7 +36,7 @@
 ---
 
 ## 📫 تماس با من | Contact
-[GitHub](https://github.com/Amirmohammadd2004) • [Telegram](https://t.me/amirmohammad_android)  
+[Telegram](https://t.me/amirmohammad_android)  
 
 ---
 
