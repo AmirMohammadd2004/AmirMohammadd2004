@@ -4,20 +4,17 @@
 ---
 
 ## 📌 درباره من | About Me
-💻 برنامه‌نویس اندروید  
-🎯 تخصص اصلی: **Kotlin**, **Jetpack Compose**, **MVVM**  
- 
+💻 برنامه‌نویس اندروید با تخصص در **Kotlin**, **Jetpack Compose** و معماری **MVVM**  
+⚡ عاشق یادگیری تکنولوژی‌های جدید و ساخت اپلیکیشن‌های خلاقانه  
 
-💻 Android Developer  
-🎯 Strong expertise in **Kotlin**, **Jetpack Compose**, **MVVM architecture**  
-
+💻 Android Developer with expertise in **Kotlin**, **Jetpack Compose**, and **MVVM architecture**  
+⚡ Passionate about learning new technologies and creating innovative apps
 
 ---
 
 ## 🛠 مهارت‌ها و زبان‌ها | Skills & Languages
 <p align="center">
   <a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=black" /></a>
-  <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=black" /></a>
   <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white&labelColor=black" /></a>
   <a href="#"><img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white&labelColor=black" /></a>
   <a href="#"><img alt="MVVM" src="https://img.shields.io/badge/MVVM-FF6F00?style=for-the-badge&logoColor=white" /></a>
@@ -30,6 +27,13 @@
   <a href="#"><img alt="RxJava" src="https://img.shields.io/badge/RxJava-B7178C?style=for-the-badge&logo=reactivex&logoColor=white&labelColor=black" /></a>
   <a href="#"><img alt="Kotlin Coroutines" src="https://img.shields.io/badge/Kotlin%20Coroutines-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=black" /></a>
 </p>
+
+<style>
+  p a img:hover {
+    transform: scale(1.2);
+    transition: transform 0.3s ease;
+  }
+</style>
 
 ---
 
