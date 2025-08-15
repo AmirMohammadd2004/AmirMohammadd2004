@@ -38,6 +38,3 @@
 ## 📫 تماس با من | Contact
 [Telegram](https://t.me/amirmohammad_android)  
 
----
-
-⭐️ _"Code is like humor. When you have to explain it, it’s bad."_
