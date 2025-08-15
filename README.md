@@ -14,26 +14,24 @@
 
 ## 🛠 مهارت‌ها و زبان‌ها | Skills & Languages
 <p align="center">
+  <!-- Languages -->
   <a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=black" /></a>
+  <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white&labelColor=black" /></a>
+
+  <!-- Tools -->
   <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white&labelColor=black" /></a>
-  <a href="#"><img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white&labelColor=black" /></a>
-  <a href="#"><img alt="MVVM" src="https://img.shields.io/badge/MVVM-FF6F00?style=for-the-badge&logoColor=white" /></a>
-  <a href="#"><img alt="Room" src="https://img.shields.io/badge/Room-FF6F00?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=black" /></a>
-  <a href="#"><img alt="Retrofit" src="https://img.shields.io/badge/Retrofit-3F51B5?style=for-the-badge&logoColor=white&labelColor=black" /></a>
-  <a href="#"><img alt="Koin" src="https://img.shields.io/badge/Koin-3DDC84?style=for-the-badge&logoColor=white&labelColor=black" /></a>
   <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=white" /></a>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=black" /></a>
   <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black" /></a>
+
+  <!-- Frameworks & Libraries -->
+  <a href="#"><img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white&labelColor=black" /></a>
+  <a href="#"><img alt="Retrofit" src="https://img.shields.io/badge/Retrofit-3F51B5?style=for-the-badge&logoColor=white&labelColor=black" /></a>
+  <a href="#"><img alt="Koin" src="https://img.shields.io/badge/Koin-3DDC84?style=for-the-badge&logoColor=white&labelColor=black" /></a>
+  <a href="#"><img alt="Room" src="https://img.shields.io/badge/Room-FF6F00?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=black" /></a>
   <a href="#"><img alt="RxJava" src="https://img.shields.io/badge/RxJava-B7178C?style=for-the-badge&logo=reactivex&logoColor=white&labelColor=black" /></a>
   <a href="#"><img alt="Kotlin Coroutines" src="https://img.shields.io/badge/Kotlin%20Coroutines-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=black" /></a>
 </p>
-
-<style>
-  p a img:hover {
-    transform: scale(1.2);
-    transition: transform 0.3s ease;
-  }
-</style>
 
 ---
 
