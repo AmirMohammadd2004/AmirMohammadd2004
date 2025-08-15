@@ -1,42 +1,42 @@
 <h1 align="center">👋 سلام، من امیرمحمد هستم | Hello, I'm AmirMohammad</h1>
-<h3 align="center">Junior Android Developer | Kotlin & Jetpack Compose Enthusiast</h3>
+<h3 align="center">Android Developer | Kotlin & Jetpack Compose Enthusiast</h3>
 
 ---
 
 ## 📌 درباره من | About Me
-💻 برنامه‌نویس جونیور اندروید با **۲ سال تجربه** در توسعه و دیباگ اپلیکیشن‌های موبایل  
-🎯 تخصص اصلی: **Kotlin** | تجربه در **Jetpack Compose** و معماری **MVVM**  
-⚡ عاشق یادگیری تکنولوژی‌های جدید و ساخت اپلیکیشن‌های خلاقانه  
+💻 برنامه‌نویس اندروید  
+🎯 تخصص اصلی: **Kotlin**, **Jetpack Compose**, **MVVM**  
+ 
 
-💻 Junior Android Developer with **2 years of experience** in building and debugging mobile applications  
-🎯 Strong expertise in **Kotlin**, with hands-on experience in **Jetpack Compose** and **MVVM architecture**  
-⚡ Passionate about learning new technologies and creating innovative apps
+💻 Android Developer  
+🎯 Strong expertise in **Kotlin**, **Jetpack Compose**, **MVVM architecture**  
+
 
 ---
 
-## 🛠 مهارت‌ها و تکنولوژی‌ها | Skills & Technologies
+## 🛠 مهارت‌ها و زبان‌ها | Skills & Languages
 <p align="center">
-  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white&style=for-the-badge" />
-  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
-  <img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white&style=for-the-badge" />
-  <img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-757575?logo=materialdesign&logoColor=white&style=for-the-badge" />
-  <img alt="Room" src="https://img.shields.io/badge/Room-FF6F00?logo=sqlite&logoColor=white&style=for-the-badge" />
-  <img alt="RxJava" src="https://img.shields.io/badge/RxJava-B7178C?logo=reactivex&logoColor=white&style=for-the-badge" />
-  <img alt="Kotlin Coroutines" src="https://img.shields.io/badge/Kotlin%20Coroutines-0095D5?logo=kotlin&logoColor=white&style=for-the-badge" />
-  <img alt="Retrofit" src="https://img.shields.io/badge/Retrofit-3F51B5?style=for-the-badge" />
-  <img alt="Koin" src="https://img.shields.io/badge/Koin-3DDC84?style=for-the-badge" />
-  <img alt="Cokoin" src="https://img.shields.io/badge/Cokoin-0095D5?style=for-the-badge" />
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+  <a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=black" /></a>
+  <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=black" /></a>
+  <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white&labelColor=black" /></a>
+  <a href="#"><img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white&labelColor=black" /></a>
+  <a href="#"><img alt="MVVM" src="https://img.shields.io/badge/MVVM-FF6F00?style=for-the-badge&logoColor=white" /></a>
+  <a href="#"><img alt="Room" src="https://img.shields.io/badge/Room-FF6F00?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=black" /></a>
+  <a href="#"><img alt="Retrofit" src="https://img.shields.io/badge/Retrofit-3F51B5?style=for-the-badge&logoColor=white&labelColor=black" /></a>
+  <a href="#"><img alt="Koin" src="https://img.shields.io/badge/Koin-3DDC84?style=for-the-badge&logoColor=white&labelColor=black" /></a>
+  <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=white" /></a>
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=black" /></a>
+  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black" /></a>
+  <a href="#"><img alt="RxJava" src="https://img.shields.io/badge/RxJava-B7178C?style=for-the-badge&logo=reactivex&logoColor=white&labelColor=black" /></a>
+  <a href="#"><img alt="Kotlin Coroutines" src="https://img.shields.io/badge/Kotlin%20Coroutines-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=black" /></a>
 </p>
 
 ---
 
 ## 📊 آمار GitHub | GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amirmohammadd2004&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirmohammadd2004&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Amirmohammadd2004&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirmohammadd2004&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 ---
