@@ -4,14 +4,14 @@
 ---
 
 ## 📌 درباره من | About Me
-💻 برنامه‌نویس جونیور اندروید با سابقه فعالیت در توسعه و دیباگ اپلیکیشن‌های موبایل  
-🎯 تخصص اصلی در **Kotlin** و آشنایی با معماری **MVVM**  
-⚡ آشنا و مسلط به کتابخانه‌ها و ابزارهای مهم برای توسعه اپلیکیشن مانند **Room, RxJava, Kotlin Coroutines, Retrofit, Hilt, Material Design, Material You, Cokoin**  
+💻 برنامه‌نویس اندروید با سابقه فعالیت در توسعه و دیباگ اپلیکیشن‌های موبایل  
+🎯 تخصص اصلی در **Kotlin** و**JetpackCompose** و آشنایی با معماری **MVVM**  
+⚡ آشنا و مسلط به کتابخانه‌ها و ابزارهای مهم برای توسعه اپلیکیشن مانند **Room, RxJava, Kotlin Coroutines, Retrofit, cokoin, koin, Material Design, Material You, Cokoin**  
 🔧 تجربه کار با **Git, GitHub** و سرویس‌های **Firebase**  
 
-💻 Junior Android Developer with experience in building and debugging mobile applications  
-🎯 Expertise in **Kotlin** and familiarity with **MVVM architecture**  
-⚡ Skilled with essential libraries and tools like **Room, RxJava, Kotlin Coroutines, Retrofit, Hilt, Material Design, Material You, Cokoin**  
+💻 Android Developer with experience in building and debugging mobile applications  
+🎯 Expertise in **Kotlin** and **JetpackCompose** and familiarity with **MVVM architecture**  
+⚡ Skilled with essential libraries and tools like **Room, RxJava, Kotlin Coroutines, Retrofit, koin, cokoin, Material Design, Material You, Cokoin**  
 🔧 Experienced with **Git, GitHub**, and **Firebase**
 
 ---
